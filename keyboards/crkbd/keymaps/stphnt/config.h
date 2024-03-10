@@ -50,4 +50,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 // Extend the amount of time that is required before a key press becomes a hold.
 // The default is 200 ms.
-#define TAPPING_TERM 300
+// #define TAPPING_TERM 300
